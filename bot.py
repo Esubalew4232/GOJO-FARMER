@@ -23,7 +23,7 @@ import shutil
 import re
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8610001220:AAEFqiNN5tABVZT_GmCOZDPAoX2c2wFOBHI"
+BOT_TOKEN = "8610001220:AAG4OQ5ypsdr_pvWDImAtzmQGRgL0FNebLI"
 BOT_NAME = "GOJO Farmer"
 OWNER_ID = 8360602913
 ADMIN_IDS = [8360602913]
