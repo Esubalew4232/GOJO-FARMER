@@ -28,7 +28,7 @@ OWNER_ID = 8360602913
 ADMIN_IDS = [8360602913]
 DB_FILE = "bot_database.db"
 OWNER_USERNAME = "@Gojo_farmer_support"
-PAYOUT_CHANNEL = "@https://t.me/GOJOFarmer"
+PAYOUT_CHANNEL = "@GOJOFarmer"
 
 # Constants
 MAX_ACTIVE_TASKS = 1
